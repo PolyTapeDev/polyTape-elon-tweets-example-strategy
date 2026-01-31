@@ -68,6 +68,10 @@ Most backtests fail because they assume you can buy at the "last price." In pred
 2. **Slippage Reality Checks:** Calculate exactly how much a $1,000 order moves the price.
 3. **High-Fidelity Timestamps:** Correlate external events (news, tweets) with market reaction down to the millisecond.
 
+# Acquire API Key
+
+Please go to https://www.polytape.xyz/ and get an API Key, by default the api has 5000 free credit.
+
 ### Run the Simulation
 
 ```bash
