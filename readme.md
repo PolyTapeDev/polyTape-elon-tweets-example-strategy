@@ -54,7 +54,7 @@ This project is modular, separating data fetching from execution logic.
 | Script | Description |
 | --- | --- |
 | **`fetch_polymarket_past_orderbook.py`** | **The Core Connector.** Takes an Asset ID and Timestamp  Returns the exact PolyTape Orderbook. This is the engine that makes the backtest "real." |
-| **`mock_trading_stragety.py`** | **The Simulation Brain.** Iterates through the tweet history, identifies the "Winning" bucket, and executes phantom trades against the PolyTape data to calculate PnL. |
+| **`mock_trading_strategy.py`** | **The Simulation Brain.** Iterates through the tweet history, identifies the "Winning" bucket, and executes phantom trades against the PolyTape data to calculate PnL. |
 | **`get_elon_past_twitter_data.py`** | **The Signal Scraper.** Fetches the raw event data (tweets) used to populate the history file. |
 | **`fetch_asset_id_data.py`** | **The Mapper.** Discovers active markets using the event slug and builds the `event_data.json` map. |
 
