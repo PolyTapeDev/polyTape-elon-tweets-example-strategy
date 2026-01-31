@@ -1,0 +1,639 @@
+✅ Loaded 10 outcome buckets from map.
+🚀 Strategy: Short_The_Winner_Verbose_Log
+🎯 Found 30 tweets. Starting analysis...
+------------------------------------------------------------
+
+🐦 Trade 1 | 2026-01-29T00:30:41.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016670298746098077
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.08
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.968 | Cash: $1363.38 | Levels Hit: 1
+   💸 PnL: $+363.38 | Equity: $10,363.38
+------------------------------------------------------------
+
+🐦 Trade 2 | 2026-01-29T00:50:12.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016675210460627416
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.966 | Cash: $1360.65 | Levels Hit: 3
+   💸 PnL: $+360.65 | Equity: $10,724.03
+------------------------------------------------------------
+
+🐦 Trade 3 | 2026-01-29T00:53:33.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016676053507334500
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.966 | Cash: $1360.65 | Levels Hit: 3
+   💸 PnL: $+360.65 | Equity: $11,084.68
+------------------------------------------------------------
+
+🐦 Trade 4 | 2026-01-29T00:54:24.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016676264321470944
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.966 | Cash: $1360.65 | Levels Hit: 3
+   💸 PnL: $+360.65 | Equity: $11,445.33
+------------------------------------------------------------
+
+🐦 Trade 5 | 2026-01-29T00:55:17.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016676486422376673
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.966 | Cash: $1360.65 | Levels Hit: 3
+   💸 PnL: $+360.65 | Equity: $11,805.98
+------------------------------------------------------------
+
+🐦 Trade 6 | 2026-01-29T01:02:41.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016678349330911254
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.09
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.966 | Cash: $1360.65 | Levels Hit: 3
+   💸 PnL: $+360.65 | Equity: $12,166.63
+------------------------------------------------------------
+
+🐦 Trade 7 | 2026-01-29T01:08:23.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016679783254397116
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.09
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.966 | Cash: $1360.65 | Levels Hit: 3
+   💸 PnL: $+360.65 | Equity: $12,527.28
+------------------------------------------------------------
+
+🐦 Trade 8 | 2026-01-29T01:13:16.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016681015536713828
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.09
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.966 | Cash: $1360.65 | Levels Hit: 3
+   💸 PnL: $+360.65 | Equity: $12,887.93
+------------------------------------------------------------
+
+🐦 Trade 9 | 2026-01-29T01:14:39.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016681363894653323
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.09
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.30
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.01
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.30)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.30 implies NO should be ~$0.70
+      🔵 EXECUTE BUY NO @ $0.710 | Shares: 1408.5 | Levels Hit: 1 | Slippage: +$0.010
+      🔴 EXECUTE SELL NO @ $0.966 | Cash: $1360.65 | Levels Hit: 3
+   💸 PnL: $+360.65 | Equity: $13,248.58
+------------------------------------------------------------
+
+🐦 Trade 10 | 2026-01-29T02:19:09.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016697593267388910
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.08
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.21
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.34
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.12
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.34)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.34 implies NO should be ~$0.66
+      🔵 EXECUTE BUY NO @ $0.688 | Shares: 1453.4 | Levels Hit: 4 | Slippage: +$0.028
+      🔴 EXECUTE SELL NO @ $0.960 | Cash: $1395.34 | Levels Hit: 8
+   💸 PnL: $+395.34 | Equity: $13,643.92
+------------------------------------------------------------
+
+🐦 Trade 11 | 2026-01-29T04:57:57.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016737559280238670
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.20
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.34
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.28
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.04
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.34)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.34 implies NO should be ~$0.66
+      🔵 EXECUTE BUY NO @ $0.730 | Shares: 1369.3 | Levels Hit: 8 | Slippage: +$0.070
+      🔴 EXECUTE SELL NO @ $0.970 | Cash: $1328.25 | Levels Hit: 1
+   💸 PnL: $+328.25 | Equity: $13,972.17
+------------------------------------------------------------
+
+🐦 Trade 12 | 2026-01-29T04:58:51.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016737785495867721
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.20
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.34
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.28
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.04
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.34)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.34 implies NO should be ~$0.66
+      🔵 EXECUTE BUY NO @ $0.730 | Shares: 1369.3 | Levels Hit: 8 | Slippage: +$0.070
+      🔴 EXECUTE SELL NO @ $0.970 | Cash: $1328.25 | Levels Hit: 1
+   💸 PnL: $+328.25 | Equity: $14,300.41
+------------------------------------------------------------
+
+🐦 Trade 13 | 2026-01-29T05:56:16.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016752233258377726
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.19
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.29
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.04
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.756 | Shares: 1322.2 | Levels Hit: 9 | Slippage: +$0.086
+      🔴 EXECUTE SELL NO @ $0.911 | Cash: $1204.05 | Levels Hit: 8
+   💸 PnL: $+204.05 | Equity: $14,504.46
+------------------------------------------------------------
+
+🐦 Trade 14 | 2026-01-29T06:56:59.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016767513036521963
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.19
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.32
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.31
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.04
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.32)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.32 implies NO should be ~$0.68
+      🔵 EXECUTE BUY NO @ $0.762 | Shares: 1311.5 | Levels Hit: 10 | Slippage: +$0.082
+      🔴 EXECUTE SELL NO @ $0.934 | Cash: $1224.54 | Levels Hit: 12
+   💸 PnL: $+224.54 | Equity: $14,729.00
+------------------------------------------------------------
+
+🐦 Trade 15 | 2026-01-29T06:59:16.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016768088855769236
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.19
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.31
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.04
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.765 | Shares: 1307.8 | Levels Hit: 10 | Slippage: +$0.095
+      🔴 EXECUTE SELL NO @ $0.934 | Cash: $1221.18 | Levels Hit: 12
+   💸 PnL: $+221.18 | Equity: $14,950.18
+------------------------------------------------------------
+
+🐦 Trade 16 | 2026-01-29T07:00:11.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016768316312850834
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.31
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.765 | Shares: 1307.8 | Levels Hit: 10 | Slippage: +$0.095
+      🔴 EXECUTE SELL NO @ $0.934 | Cash: $1221.18 | Levels Hit: 12
+   💸 PnL: $+221.18 | Equity: $15,171.36
+------------------------------------------------------------
+
+🐦 Trade 17 | 2026-01-29T07:08:10.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016770325644550286
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.32
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.765 | Shares: 1307.8 | Levels Hit: 10 | Slippage: +$0.095
+      🔴 EXECUTE SELL NO @ $0.934 | Cash: $1221.18 | Levels Hit: 12
+   💸 PnL: $+221.18 | Equity: $15,392.54
+------------------------------------------------------------
+
+🐦 Trade 18 | 2026-01-29T07:11:43.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016771220105031861
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.09
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.32
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.769 | Shares: 1300.0 | Levels Hit: 10 | Slippage: +$0.099
+      🔴 EXECUTE SELL NO @ $0.934 | Cash: $1214.10 | Levels Hit: 12
+   💸 PnL: $+214.10 | Equity: $15,606.63
+------------------------------------------------------------
+
+🐦 Trade 19 | 2026-01-29T07:12:52.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016771508413014240
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.09
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.769 | Shares: 1300.0 | Levels Hit: 10 | Slippage: +$0.099
+      🔴 EXECUTE SELL NO @ $0.934 | Cash: $1214.10 | Levels Hit: 12
+   💸 PnL: $+214.10 | Equity: $15,820.73
+------------------------------------------------------------
+
+🐦 Trade 20 | 2026-01-29T07:13:13.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016771599437832508
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.09
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.11
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 65-89 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.769 | Shares: 1300.0 | Levels Hit: 10 | Slippage: +$0.099
+      🔴 EXECUTE SELL NO @ $0.934 | Cash: $1214.10 | Levels Hit: 12
+   💸 PnL: $+214.10 | Equity: $16,034.82
+------------------------------------------------------------
+
+🐦 Trade 21 | 2026-01-29T07:16:51.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016772512042922021
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.08
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.31
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.32
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.32)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.32 implies NO should be ~$0.68
+      🔵 EXECUTE BUY NO @ $0.713 | Shares: 1401.7 | Levels Hit: 6 | Slippage: +$0.033
+      🔴 EXECUTE SELL NO @ $0.641 | Cash: $898.61 | Levels Hit: 9
+   💸 PnL: $-101.39 | Equity: $15,933.44
+------------------------------------------------------------
+
+🐦 Trade 22 | 2026-01-29T07:17:23.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016772646566797458
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.08
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.31
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.32
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.32)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.32 implies NO should be ~$0.68
+      🔵 EXECUTE BUY NO @ $0.713 | Shares: 1401.7 | Levels Hit: 6 | Slippage: +$0.033
+      🔴 EXECUTE SELL NO @ $0.641 | Cash: $898.61 | Levels Hit: 9
+   💸 PnL: $-101.39 | Equity: $15,832.05
+------------------------------------------------------------
+
+🐦 Trade 23 | 2026-01-29T07:17:51.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016772765206864291
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.08
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.31
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.32
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.03
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.32)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.32 implies NO should be ~$0.68
+      🔵 EXECUTE BUY NO @ $0.713 | Shares: 1401.7 | Levels Hit: 6 | Slippage: +$0.033
+      🔴 EXECUTE SELL NO @ $0.641 | Cash: $898.61 | Levels Hit: 9
+   💸 PnL: $-101.39 | Equity: $15,730.66
+------------------------------------------------------------
+
+🐦 Trade 24 | 2026-01-29T08:05:08.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016784664816488765
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.18
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.08
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.706 | Shares: 1416.2 | Levels Hit: 4 | Slippage: +$0.036
+      🔴 EXECUTE SELL NO @ $0.639 | Cash: $904.26 | Levels Hit: 8
+   💸 PnL: $-95.74 | Equity: $15,634.91
+------------------------------------------------------------
+
+🐦 Trade 25 | 2026-01-29T08:42:41.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016794111722868902
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.17
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.06
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.703 | Shares: 1422.1 | Levels Hit: 5 | Slippage: +$0.033
+      🔴 EXECUTE SELL NO @ $0.675 | Cash: $960.47 | Levels Hit: 9
+   💸 PnL: $-39.53 | Equity: $15,595.39
+------------------------------------------------------------
+
+🐦 Trade 26 | 2026-01-29T08:45:11.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016794742495805890
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.17
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.06
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.703 | Shares: 1422.1 | Levels Hit: 5 | Slippage: +$0.033
+      🔴 EXECUTE SELL NO @ $0.675 | Cash: $960.47 | Levels Hit: 9
+   💸 PnL: $-39.53 | Equity: $15,555.86
+------------------------------------------------------------
+
+🐦 Trade 27 | 2026-01-29T08:48:02.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016795460317462835
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.17
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.06
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.704 | Shares: 1421.4 | Levels Hit: 5 | Slippage: +$0.034
+      🔴 EXECUTE SELL NO @ $0.684 | Cash: $972.49 | Levels Hit: 10
+   💸 PnL: $-27.51 | Equity: $15,528.36
+------------------------------------------------------------
+
+🐦 Trade 28 | 2026-01-29T08:48:31.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016795581394333904
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.17
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.06
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.704 | Shares: 1421.4 | Levels Hit: 5 | Slippage: +$0.034
+      🔴 EXECUTE SELL NO @ $0.679 | Cash: $964.73 | Levels Hit: 10
+   💸 PnL: $-35.27 | Equity: $15,493.08
+------------------------------------------------------------
+
+🐦 Trade 29 | 2026-01-29T08:50:35.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016796102100459560
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.17
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.06
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.704 | Shares: 1421.4 | Levels Hit: 5 | Slippage: +$0.034
+      🔴 EXECUTE SELL NO @ $0.679 | Cash: $964.73 | Levels Hit: 10
+   💸 PnL: $-35.27 | Equity: $15,457.81
+------------------------------------------------------------
+
+🐦 Trade 30 | 2026-01-29T08:54:57.000Z
+   🔗 Found Elon Tweet: https://x.com/elonmusk/status/2016797201888948500
+   🔍 Scanning 10 outcome buckets for the leader...
+      👉 Checking: 'Will Elon Musk post <40 tweets from January 29 to ..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 40-64 tweets from January 29 t..' | Price: $0.07
+      👉 Checking: 'Will Elon Musk post 115-139 tweets from January 29..' | Price: $0.17
+      👉 Checking: 'Will Elon Musk post 190-214 tweets from January 29..' | Price: $0.01
+      👉 Checking: 'Will Elon Musk post 240+ tweets from January 29 to..' | Price: $0.00
+      👉 Checking: 'Will Elon Musk post 65-89 tweets from January 29 t..' | Price: $0.27
+      👉 Checking: 'Will Elon Musk post 90-114 tweets from January 29 ..' | Price: $0.33
+      👉 Checking: 'Will Elon Musk post 140-164 tweets from January 29..' | Price: $0.10
+      👉 Checking: 'Will Elon Musk post 165-189 tweets from January 29..' | Price: $0.06
+      👉 Checking: 'Will Elon Musk post 215-239 tweets from January 29..' | Price: $0.00
+   🏆 Leader Found: 'Will Elon Musk post 90-114 tweets from January 29 to January 31, 2026?' (Price: $0.33)
+   📉 Action: Buying 'NO' on the leader (Shorting).
+      🔸 Spread Info:  YES=$0.33 implies NO should be ~$0.67
+      🔵 EXECUTE BUY NO @ $0.704 | Shares: 1421.4 | Levels Hit: 5 | Slippage: +$0.034
+      🔴 EXECUTE SELL NO @ $0.677 | Cash: $962.27 | Levels Hit: 12
+   💸 PnL: $-37.73 | Equity: $15,420.08
+------------------------------------------------------------
+
+==============================
+Total PnL: $5420.08
+Final Eq:  $15,420.08
+==============================
